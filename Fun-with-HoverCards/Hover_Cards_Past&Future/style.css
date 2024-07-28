@@ -120,7 +120,7 @@ body {
   color: white;
   opacity: 100;
   position: fixed;
-  margin-top: 5.6em;
+  margin-top: 6em;
   transition: position 1s ease, margin 1.3s ease, font-size 1.3s ease;
 }
 
