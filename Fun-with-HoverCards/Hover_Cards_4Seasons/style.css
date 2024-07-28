@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* --------------------------------------- */
+  
+  .season-main-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+  }
+
+  .season-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 13vw;
+    
+  }
+
+
+.season-image {
+    width: 18vw;
+    border-radius: 25px;
+}
+
+
+/* -------------------HOVER------------------ */
+
+.season-container:hover {
+    filter: grayscale(100%) blur(3px);
+}
