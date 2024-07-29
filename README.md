@@ -1,7 +1,11 @@
 # HTML und CSS Hovercards Sammlung
 
+## Language/Sprache
 
-#----English----
+ [English](#english)	
+ [Deutsch](#deutsch)
+
+## English
 
 ## Table of Contents
 - [About the Project](#about-the-project)
@@ -30,7 +34,7 @@ To install the project locally:
 3. Go to the desired subfolder, which are sorted by theme.
     ```bash
     cd 'Projekt-Name' (z.B.: Hover_Cards_Past&Future)
-    ``
+    ```
 
 4. Open the respective index.html file in your browser.
 
@@ -76,7 +80,7 @@ For questions or feedback, you can contact me as follows:
 	
 	
 
-#----Deutsch----
+## Deutsch
 
 ## Inhaltsverzeichnis
 - [Über das Projekt](#über-das-projekt)
