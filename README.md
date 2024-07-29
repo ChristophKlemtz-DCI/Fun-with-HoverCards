@@ -2,8 +2,8 @@
 
 ## Language/Sprache
 
- [English](#english)	
- [Deutsch](#deutsch)
+   - [English](#english)	
+   - [Deutsch](#deutsch)
 
 ## English
 
