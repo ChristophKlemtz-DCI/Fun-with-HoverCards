@@ -3,7 +3,10 @@
   padding: 0;
 }
 
-body {
+
+/* ------------------------------------------------------ */
+
+.period-main-container {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -11,8 +14,6 @@ body {
   height: 100%;
   background-color: black;
 }
-
-/* ------------------------------------------------------ */
 
 .period-container {
   font-family: "Arsenal SC", sans-serif;
