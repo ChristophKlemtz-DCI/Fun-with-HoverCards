@@ -45,7 +45,6 @@
 /* -------------------HOVER------------------ */
 
 .season-container:hover .season-back {
-  /* object-fit: cover; */
   border-radius: 60px;
   height: 20vw;
   filter: grayscale(100%) blur(4px);
@@ -54,7 +53,7 @@
 
 .season-container:hover .season-deer {
   opacity: 100;
-  width: 20vw;
+  width: 22vw;
   transition: opacity 0.8s ease, width 0.8s ease;
 
 }
